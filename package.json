@@ -1,0 +1,20 @@
+{
+  "name": "printpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc ./PrintPage.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pab-h/PrintPage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pab-h/PrintPage/issues"
+  },
+  "homepage": "https://github.com/pab-h/PrintPage#readme",
+  "description": ""
+}
