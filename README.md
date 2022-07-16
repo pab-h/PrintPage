@@ -14,11 +14,11 @@ Pronto! Instalação completa. =)
 
 ### Exemplo rápido
 ~~~javascript
-    const printPage = new PrintPage("Hello, World!");
-    printPage
-        .build() // Cria a nova Window para ser impressa
-        .print() // Executa o comando de imprimir
-        .close(); // Fecha a Window criada
+const printPage = new PrintPage("Hello, World!");
+printPage
+    .build() // Cria a nova Window para ser impressa
+    .print() // Executa o comando de imprimir
+    .close(); // Fecha a Window criada
 ~~~
 *Sempre* chame o método `close()` ao final da execução 
 
